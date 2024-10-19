@@ -1,5 +1,5 @@
 # openVPN Linux
-This App was created because Linux does not have a proper method to add `.openvpn` in its Network Settings, this can be time consuming trying to adjust the right tweak. <br/>
+This Python App was created because Linux does not have a proper method to add `.openvpn` in its Network Settings, this can be time consuming trying to adjust the right tweak. <br/>
 the second option is to install `OpenVPN` then a command like: `sudo openvpn --config /path/to/config.ovpn....` although it requires, opening Terminal typing everytime, going into the right path,  and becoming tedious work.
 
 This option is more intuitive:  <br/>
